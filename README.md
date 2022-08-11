@@ -7,7 +7,7 @@
 
 ## **Who are you?**
 
-Well, no-one special, just a 20 year old person interested in computers technology, and anime. \
+Well, no-one special, just a 20 year old person interested in computers, technology, game development, character development, and anime. \
 Name's **Kevin**, `Muhammad Kevin` to be exact. Call me Kevin if you wanna. \
 I'm not a professional in any way whatsoever, I do things to have fun and cause it's interesting.
 
