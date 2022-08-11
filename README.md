@@ -53,6 +53,15 @@ Just don't be a creep, thanks ● ﹏ ●
 [![Gmail Badge](https://img.shields.io/badge/-kevin.subagio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kevin.subagio@gmail.com)](mailto:kevin.subagio@gmail.com)
 [![discord](https://discord-md-badge.vercel.app/api/shield/732753909487239229?style=social)](https://discord.com/users/732753909487239229)
 
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
+
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION-->
