@@ -51,4 +51,4 @@ Just don't be a creep, thanks ● ﹏ ●
 
 [![Telegram Badge](https://img.shields.io/badge/-alter_kvn_media-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/alter_kvn_media)](https://t.me/alter_kvn_media)
 [![Gmail Badge](https://img.shields.io/badge/-kevin.subagio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kevin.subagio@gmail.com)](mailto:kevin.subagio@gmail.com)
-[![discord](https://dcbadge.vercel.app/api/shield/732753909487239229?bot=true&style=social)](https://discord.com/channels/@me)
+[![discord](https://dcbadge.vercel.app/api/shield/732753909487239229?bot=true&style=social)](https://discord.com/732753909487239229)
