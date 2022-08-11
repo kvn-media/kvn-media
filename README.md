@@ -54,10 +54,11 @@ Just don't be a creep, thanks ● ﹏ ●
 [![discord](https://discord-md-badge.vercel.app/api/shield/732753909487239229?style=social)](https://discord.com/users/732753909487239229)
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <img src="https://komarev.com/ghpvc/?username=kvn-media&style=flat-square&color=blue" alt="Profile"/>
+  <a href="[Linkedin](https://www.linkedin.com/in/muhammad-kevin-subagio-236978233/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="[your-youtube-URL](https://www.youtube.com/channel/UClpKSzutK_ruy6gpFSmVDaw)">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
