@@ -52,3 +52,10 @@ Just don't be a creep, thanks ● ﹏ ●
 [![Telegram Badge](https://img.shields.io/badge/-alter_kvn_media-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/alter_kvn_media)](https://t.me/alter_kvn_media)
 [![Gmail Badge](https://img.shields.io/badge/-kevin.subagio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kevin.subagio@gmail.com)](mailto:kevin.subagio@gmail.com)
 [![discord](https://discord-md-badge.vercel.app/api/shield/732753909487239229?style=social)](https://discord.com/users/732753909487239229)
+
+## **What languages you use and how much do you code?**
+
+<!--START_SECTION-->
+![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2044%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60%20Thousand%20lines%20of%20code-blue)
