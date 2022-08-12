@@ -5,7 +5,7 @@
     <a href="[Linkedin](https://www.linkedin.com/in/muhammad-kevin-subagio-236978233/)">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="[your-youtube-URL](https://www.youtube.com/channel/UClpKSzutK_ruy6gpFSmVDaw)">
+    <a href="[YouTube](https://www.youtube.com/channel/UClpKSzutK_ruy6gpFSmVDaw)">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
   </div>
@@ -47,6 +47,7 @@ I'm learning and playing around with a few languages, see pinned repositories fo
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain-wordmark.svg" title="Gradle" alt="Gradle" width="40" height="40"/>&nbsp;
   <img src"https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" title="Code Igniter" alt="Code Igniter" width="40" height="40"/>&nbsp;
   <img src"https://github.com/devicons/devicon/blob/master/icons/composer/composer-line-wordmark.svg" title="Composer" alt="Composer" width="40" height="40"/>&nbsp;
   <img src"https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
