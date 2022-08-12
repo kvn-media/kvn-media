@@ -92,6 +92,7 @@ I'm learning and playing around with a few languages, see pinned repositories fo
   <img src"https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original-wordmark.svg" title="UE" alt="UE" width="40" height="40"/>&nbsp;
 </div>
 
+---
 
 I wanna write software to entertain myself with challenges and help people. \
 Though I don't think I achived the latter goal till now.
