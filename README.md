@@ -105,6 +105,8 @@ Though I don't think I achived the latter goal till now.
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kvn-media&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvn-media&layout=compact&theme=vision-friendly-dark)](https://github.com/kvn-medua/github-readme-stats)
 <!--## **Eww, I see a weeb profile.**
 Can't help it, it's the best way to hide my face on this account
 > Why do people hate weebs .-.
