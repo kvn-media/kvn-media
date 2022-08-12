@@ -14,7 +14,7 @@
 
 
 <div id="header" align="center">
-  ![image](https://user-images.githubusercontent.com/91268066/184132038-0e2c7708-d445-4bbd-ace7-99b1718008e2.png)
+  <img src="https://user-images.githubusercontent.com/91268066/184132038-0e2c7708-d445-4bbd-ace7-99b1718008e2.png"/>
 </div>
 
 # **Hi there, I'm Kvn-media (*´ー｀*), and this is my profile readme.**
