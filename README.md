@@ -1,3 +1,18 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  
+  <div id="badges">
+    <a href="[Linkedin](https://www.linkedin.com/in/muhammad-kevin-subagio-236978233/)">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="[your-youtube-URL](https://www.youtube.com/channel/UClpKSzutK_ruy6gpFSmVDaw)">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=kvn-media&style=flat-square&color=blue" alt="Profile"/>
+</div>
+
+
 ![image](https://user-images.githubusercontent.com/91268066/184132038-0e2c7708-d445-4bbd-ace7-99b1718008e2.png)
 
 
@@ -53,15 +68,6 @@ Just don't be a creep, thanks ● ﹏ ●
 [![Gmail Badge](https://img.shields.io/badge/-kevin.subagio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kevin.subagio@gmail.com)](mailto:kevin.subagio@gmail.com)
 [![discord](https://discord-md-badge.vercel.app/api/shield/732753909487239229?style=social)](https://discord.com/users/732753909487239229)
 
-<div id="badges">
-  <a href="[Linkedin](https://www.linkedin.com/in/muhammad-kevin-subagio-236978233/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="[your-youtube-URL](https://www.youtube.com/channel/UClpKSzutK_ruy6gpFSmVDaw)">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=kvn-media&style=flat-square&color=blue" alt="Profile"/>
 
 ## **What languages you use and how much do you code?**
 
