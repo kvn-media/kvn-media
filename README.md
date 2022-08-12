@@ -100,6 +100,11 @@ I'm learning and playing around with a few languages, see pinned repositories fo
 I wanna write software to entertain myself with challenges and help people. \
 Though I don't think I achived the latter goal till now.
 
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kvn-media&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--## **Eww, I see a weeb profile.**
 Can't help it, it's the best way to hide my face on this account
 > Why do people hate weebs .-.
