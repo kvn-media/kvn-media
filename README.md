@@ -128,7 +128,7 @@ Just don't be a creep, thanks ● ﹏ ●
 
 ## **What languages you use and how much do you code?**
 
-<!--START_SECTION-->
+<!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2044%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60%20Thousand%20lines%20of%20code-blue)
@@ -161,3 +161,6 @@ IntelliJ                 9 hrs 54 mins       █████████░░�
 Windows                  16 hrs 19 mins      ████████████████░░░░░░░░░   67.36% 
 Linux                    3 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.26%
 ```
+
+
+<!--END_SECTION:waka-->
