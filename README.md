@@ -127,8 +127,6 @@ Just don't be a creep, thanks ● ﹏ ●
 <!--[![discord](https://discord-md-badge.vercel.app/api/shield/732753909487239229?style=social)](https://discord.com/users/732753909487239229)-->
 
 
-## **What languages you use and how much do you code?**
-
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
