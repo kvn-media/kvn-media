@@ -130,6 +130,16 @@ Just don't be a creep, thanks ● ﹏ ●
 
 ## Last Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [Git Essentials: Developer's Guide to Git](https://www.goodreads.com/review/show/4917874018?utm_medium=api&utm_source=rss) by François Dupire (⭐️5)
+- [Beginning Ruby: From Novice to Professional](https://www.goodreads.com/review/show/4917870508?utm_medium=api&utm_source=rss) by Peter Cooper (⭐️3.84)
+- [Data Structures & Algorithms In Go](https://www.goodreads.com/review/show/4917866657?utm_medium=api&utm_source=rss) by Hemant Jain (⭐️4.25)
+- [Introducing Go: Build Reliable, Scalable Programs](https://www.goodreads.com/review/show/4917865121?utm_medium=api&utm_source=rss) by Caleb Doxsey (⭐️3.61)
+- [Go Web Programming](https://www.goodreads.com/review/show/4917864135?utm_medium=api&utm_source=rss) by Sau Sheong Chang (⭐️3.67)
+- [Pro C# 7: With .NET and .NET Core](https://www.goodreads.com/review/show/4917863048?utm_medium=api&utm_source=rss) by Andrew Troelsen (⭐️4.11)
+- [Clean C++: Sustainable Software Development Patterns and Best Practices with C++ 17](https://www.goodreads.com/review/show/4917861721?utm_medium=api&utm_source=rss) by Stephan Roth (⭐️3.86)
+- [Beginning C++17: From Novice to Professional](https://www.goodreads.com/review/show/4917860062?utm_medium=api&utm_source=rss) by Ivor Horton (⭐️4.43)
+- [Learning React: A Hands-On Guide to Building Web Applications Using React and Redux](https://www.goodreads.com/review/show/4917857376?utm_medium=api&utm_source=rss) by Kirupa Chinnathambi (⭐️4.18)
+- [Mastering Full-Stack React Web Development](https://www.goodreads.com/review/show/4917855196?utm_medium=api&utm_source=rss) by Tomasz Dyl (⭐️4.33)
 <!-- GOODREADS-LIST:END -->
 
 ## **What languages you use and how much do you code?**
