@@ -16,3 +16,4 @@ jobs:
           # Replace this with your goodreads user id
           goodreads_user_id: "154757085"
           shelf: "read"
+          max_books_count: "50"
