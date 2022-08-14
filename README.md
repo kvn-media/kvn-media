@@ -130,38 +130,5 @@ Just don't be a creep, thanks ● ﹏ ●
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2044%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60%20Thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 156 Contributions in the Year 2022
- > 
-> 💼 Open to Hire
- > 
-> 📜 34 Public Repositories 
- > 
- 
- 
- 📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Indonesia
-💬 Programming Languages: 
-Go                       8 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   34.91% 
-JavaScript               6 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   29.17% 
-Dart                     3 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.46% 
-Python                   2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.23% 
-Kotlin                   2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.23%
-🔥 Editors: 
-VS Code                  15 hrs 52 mins      ████████████████████░░░░░   79.75%
-Visual Studio			       6 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   29.17%
-IntelliJ                 9 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   43.19%
-💻 Operating System: 
-Windows                  16 hrs 19 mins      ████████████████░░░░░░░░░   67.36% 
-Linux                    3 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.26%
-```
-
 
 <!--END_SECTION:waka-->
