@@ -11,6 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - uses: zwacky/goodreads-profile-workflow@main
       - uses: kvn-media/kvn-media@main
         with:
           # Replace this with your goodreads user id
