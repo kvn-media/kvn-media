@@ -108,10 +108,10 @@ Though I don't think I achived the latter goal till now.
     <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=kvn-media&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D"/>
   </a>
   <a>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=kvn-media&show_icons=true&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=kvn-media&show_icons=true&theme=tokyonight"/>
   </a>
   <a>  
-    <img align="left" width="True" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvn-media&langs_count=10&theme=tokyonight&layout=compact"/>
+    <img width="True" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvn-media&langs_count=10&theme=tokyonight&layout=compact"/>
   </a>
 </div>
 
