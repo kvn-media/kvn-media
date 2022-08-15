@@ -103,19 +103,22 @@ Though I don't think I achived the latter goal till now.
 ---
 
 ### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kvn-media&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kvn-media&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvn-media&langs_count=10&theme=tokyonight&layout=compact)](https://github.com/kvn-media/github-readme-stats)
-
-<a href="https://github.com/kvn-media/github-readme-stats">
+<a>
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=kvn-media&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D"/>(https://git.io/streak-stats)
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kvn-media&show_icons=true&theme=tokyonight"/>
+</a>
+<a>  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvn-media&langs_count=10&theme=tokyonight&layout=compact"/>(https://github.com/kvn-media/github-readme-stats)
+</a>
+<!--<a href="https://github.com/kvn-media/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kvn-media&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kvn-media&repo=convoychat" />
-</a>
+</a>-->
+
 <!--## **Eww, I see a weeb profile.**
 Can't help it, it's the best way to hide my face on this account
 > Why do people hate weebs .-.
