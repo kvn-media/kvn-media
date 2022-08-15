@@ -106,8 +106,7 @@ Though I don't think I achived the latter goal till now.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kvn-media&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvn-media&layout=compact&theme=tokyonight)](https://github.com/kvn-medua/github-readme-stats) ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kvn-media&show_icons=true&theme=tokyonight)
-
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kvn-media&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvn-media&layout=compact)](https://github.com/kvn-media/github-readme-stats)
 <!--## **Eww, I see a weeb profile.**
 Can't help it, it's the best way to hide my face on this account
 > Why do people hate weebs .-.
