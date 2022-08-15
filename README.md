@@ -111,7 +111,7 @@ Though I don't think I achived the latter goal till now.
     <img src="https://github-readme-stats.vercel.app/api?username=kvn-media&show_icons=true&theme=tokyonight"/>
   </a>
   <a>  
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvn-media&langs_count=10&theme=tokyonight&layout=compact"/>
+    <img width="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvn-media&langs_count=10&theme=tokyonight&layout=compact"/>
   </a>
 </div>
 
