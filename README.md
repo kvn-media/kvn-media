@@ -180,7 +180,7 @@ Just don't be a creep, thanks ● ﹏ ●
 
 ## **What languages you use and how much do you code?**
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kvn-media)](https://github.com/kvn-media/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kvnmedia)](https://github.com/kvn-media/github-readme-stats)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
