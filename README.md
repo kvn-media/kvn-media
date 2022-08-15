@@ -103,9 +103,9 @@ Though I don't think I achived the latter goal till now.
 ---
 
 ### :fire: My Stats :
-<div id="header" align="center"
+<div id="header" align="left"
   <a>
-    <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=kvn-media&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=kvn-media&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D"/>
   </a>
   <a>
     <img src="https://github-readme-stats.vercel.app/api?username=kvn-media&show_icons=true&theme=tokyonight"/>
