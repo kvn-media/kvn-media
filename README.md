@@ -106,9 +106,8 @@ Though I don't think I achived the latter goal till now.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kvn-media&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvn-media&layout=compact&theme=vision-friendly-dark)](https://github.com/kvn-medua/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvn-media&layout=compact&theme=vision-friendly-dark)](https://github.com/kvn-medua/github-readme-stats)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/apikvn-media=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--## **Eww, I see a weeb profile.**
 Can't help it, it's the best way to hide my face on this account
