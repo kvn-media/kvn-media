@@ -109,6 +109,13 @@ Though I don't think I achived the latter goal till now.
 ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kvn-media&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvn-media&langs_count=10&theme=tokyonight&layout=compact)](https://github.com/kvn-media/github-readme-stats)
+
+<a href="https://github.com/kvn-media/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kvn-media&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kvn-media&repo=convoychat" />
+</a>
 <!--## **Eww, I see a weeb profile.**
 Can't help it, it's the best way to hide my face on this account
 > Why do people hate weebs .-.
