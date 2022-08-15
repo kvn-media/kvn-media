@@ -170,8 +170,10 @@ Just don't be a creep, thanks ● ﹏ ●
 - [Classroom of the Elite (Light Novel) Vol. 1](https://www.goodreads.com/review/show/4917823523?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.15)
 <!-- GOODREADS-LIST:END -->
 
+---
 
 ## **What languages you use and how much do you code?**
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
