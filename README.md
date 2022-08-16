@@ -9,7 +9,7 @@
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=kvn-media&style=flat-square&color=blue" alt="Profile"/>
+  <img src="https://profile-counter.glitch.me/kvn-media/count.svg" alt="Profile"/>
   <h1>
     Konnichiwa
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
