@@ -23,6 +23,7 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: true
           SHOW_OS: true
           SHOW_EDITORS: true
+          SYMBOL_VERSION: 1
           SHOW_LOC_CHART: true
           SHOW_UPDATED_DATE: true
           UPDATED_DATE_FORMAT: "%d/%m/%Y %H:%M:%S"
