@@ -138,8 +138,10 @@ Just don't be a creep, thanks ● ﹏ ●
 
 [![Telegram Badge](https://img.shields.io/badge/-alter_kvn_media-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/alter_kvn_media)](https://t.me/alter_kvn_media)
 [![Gmail Badge](https://img.shields.io/badge/-kevin.subagio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kevin.subagio@gmail.com)](mailto:kevin.subagio@gmail.com)
-[![discord](https://discord-md-badge.vercel.app/api/shield/732753909487239229?style=social)](https://discordapp.com/users/732753909487239229)
-<!--[![discord](https://discord-md-badge.vercel.app/api/shield/732753909487239229?style=social)](https://discord.com/users/732753909487239229)-->
+<!--[![discord](https://discord-md-badge.vercel.app/api/shield/732753909487239229?style=social)](https://discordapp.com/users/732753909487239229)-->
+[![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/732753909487239229)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/kevin_subagio)
+
 
 ## Last Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
