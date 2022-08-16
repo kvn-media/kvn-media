@@ -1,25 +1,25 @@
-name: Waka Readme
+# name: Waka Readme
 
-on:
-  schedule:
-    # Runs at 12 am  '0 0 * * *'  UTC
-    - cron: "* * * * *"
-  workflow_dispatch:
+# on:
+#   schedule:
+#     # Runs at 12 am  '0 0 * * *'  UTC
+#     - cron: "* * * * *"
+#   workflow_dispatch:
   
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          SHOW_TOTAL: true
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          TIME_RANGE: all_time
-          SHOW_TIME: true
-          SHOW_MASKED_TIME: true
+# jobs:
+#   update-readme:
+#     name: Update Readme with Metrics
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: athul/waka-readme@master
+#         with:
+#           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+#           SHOW_TITLE: true
+#           SHOW_TOTAL: true
+#           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+#           TIME_RANGE: all_time
+#           SHOW_TIME: true
+#           SHOW_MASKED_TIME: true
 #           GH_TOKEN: ${{ secrets.GH_TOKEN }}
 #           SHOW_LINES_OF_CODE: "True"
 #           SHOW_TOTAL_CODE_TIME: "True"
