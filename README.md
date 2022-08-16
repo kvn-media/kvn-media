@@ -189,7 +189,7 @@ Just don't be a creep, thanks ● ﹏ ●
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-522-blue)
 
@@ -273,5 +273,5 @@ Python                   4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kvn-media/kvn-media/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/08/2022 16:35:10 UTC
+ Last Updated on 16/08/2022 17:27:53 UTC
 <!--END_SECTION:waka-->
