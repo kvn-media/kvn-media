@@ -145,7 +145,7 @@ Just don't be a creep, thanks ● ﹏ ●
 ## Last Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
 - [Git Essentials: Developer's Guide to Git](https://www.goodreads.com/review/show/4917874018?utm_medium=api&utm_source=rss) by François Dupire (⭐️5)
-- [Beginning Ruby: From Novice to Professional](https://www.goodreads.com/review/show/4917870508?utm_medium=api&utm_source=rss) by Peter Cooper (⭐️3.84)
+- [Beginning Ruby: From Novice to Professional](https://www.goodreads.com/review/show/4917870508?utm_medium=api&utm_source=rss) by Peter Cooper (⭐️3.85)
 - [Data Structures & Algorithms In Go](https://www.goodreads.com/review/show/4917866657?utm_medium=api&utm_source=rss) by Hemant Jain (⭐️4.25)
 - [Introducing Go: Build Reliable, Scalable Programs](https://www.goodreads.com/review/show/4917865121?utm_medium=api&utm_source=rss) by Caleb Doxsey (⭐️3.61)
 - [Go Web Programming](https://www.goodreads.com/review/show/4917864135?utm_medium=api&utm_source=rss) by Sau Sheong Chang (⭐️3.67)
@@ -178,7 +178,7 @@ Just don't be a creep, thanks ● ﹏ ●
 - [Classroom of the Elite (Light Novel) Vol. 4.5](https://www.goodreads.com/review/show/4917829956?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️3.95)
 - [Classroom of the Elite (Light Novel) Vol. 6](https://www.goodreads.com/review/show/4917829525?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.37)
 - [Classroom of the Elite (Light Novel) Vol. 5](https://www.goodreads.com/review/show/4917828874?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.35)
-- [Classroom of the Elite (Light Novel) Vol. 4](https://www.goodreads.com/review/show/4917828279?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.3)
+- [Classroom of the Elite (Light Novel) Vol. 4](https://www.goodreads.com/review/show/4917828279?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.29)
 - [Classroom of the Elite (Light Novel) Vol. 3](https://www.goodreads.com/review/show/4917827685?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.28)
 - [Classroom of the Elite (Light Novel) Vol. 2](https://www.goodreads.com/review/show/4917826974?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️3.94)
 - [Classroom of the Elite (Light Novel) Vol. 1](https://www.goodreads.com/review/show/4917823523?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.14)
