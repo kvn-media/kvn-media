@@ -270,3 +270,13 @@ Python                   4 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
  Last Updated on 19/08/2022 08:30:52 UTC
 <!--END_SECTION:waka-->
+
+---
+
+# Kevin's Open Chess Tournament
+
+This is an open chess tournament where ANYONE can play. That's the fun part.  
+It's your turn to play! Move a <!-- BEGIN TURN -->black<!-- END TURN --> piece.
+
+<!-- BEGIN CHESS BOARD -->
+<!-- END CHESS BOARD -->
