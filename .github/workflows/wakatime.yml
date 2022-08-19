@@ -25,7 +25,7 @@ jobs:
           SHOW_PROJECTS: false
           SHOW_OS: true
           SHOW_EDITORS: true
-          SYMBOL_VERSION: 1
+          SYMBOL_VERSION: 2
           SHOW_LOC_CHART: true
           SHOW_UPDATED_DATE: true
           UPDATED_DATE_FORMAT: "%d/%m/%Y %H:%M:%S"
