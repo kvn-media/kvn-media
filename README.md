@@ -18,7 +18,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/91268066/184132038-0e2c7708-d445-4bbd-ace7-99b1718008e2.png"/>
+  <img src="https://user-images.githubusercontent.com/91268066/185572270-ba5329f2-59ce-40cb-b235-940f89b06b38.jpg"/>
 </div>
 
 # **Hi there, I'm Kvn-media (*´ー｀*), and this is my profile readme.**
@@ -27,9 +27,9 @@
 
 ## **Who are you?**
 
-Well, no-one special, just a 20 year old person interested in computers, technology, game development, character development, and anime. \
+Well, no-one special, just a 20 year old person interested in invention, technology, science, game development, and anime. \
 Name's **Kevin**, `Muhammad Kevin` to be exact. Call me Kevin if you wanna. \
-I'm not a professional in any way whatsoever, I do things to have fun and cause it's interesting.
+I'm a Software Engineer, I Love to invent things to have fun and cause it's interesting.
 
 ## **Where are you from? Where do you belong?**
 
@@ -106,6 +106,8 @@ I'm learning and playing around with a few languages, see pinned repositories fo
 
 I wanna write software to entertain myself with challenges and help people. \
 Though I don't think I achived the latter goal till now.
+
+In the future i want to invent personal A.I not just a software but can integrated to physical body and a new programming language, it's not easy but the journey of inventors never easy throught out the year.
 
 ---
 
