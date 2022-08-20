@@ -203,7 +203,7 @@ Just don't be a creep, thanks ● ﹏ ●
 <!-- GOODREADS-LIST:END -->
 
 
-## **Reading Area**
+## **Reading Area :open_book:**
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://drive.google.com/drive/folders/1Er2Q2lqO_GHOVevR6JmbTfdBwxLvL8cT?usp=sharing)
 
 ---
