@@ -204,8 +204,10 @@ Just don't be a creep, thanks ● ﹏ ●
 
 
 ## **Reading Area :open_book:**
-Mostly is about programming and technology books for now
+
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://drive.google.com/drive/folders/1Er2Q2lqO_GHOVevR6JmbTfdBwxLvL8cT?usp=sharing)
+
+Mostly is about programming and technology books for now
 
 ---
 
