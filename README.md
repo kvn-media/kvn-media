@@ -122,7 +122,12 @@ In the future i want to invent personal A.I not just a software but can integrat
   <a>  
     <img width="True" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvn-media&langs_count=10&theme=tokyonight&layout=compact"/>
   </a>
+  <a>
+    <img src="https://github-profile-trophy.vercel.app/?username=kvn-media&row=1"/>
+  </a>
 </div>
+
+<!--[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 <!--## **Eww, I see a weeb profile.**
 Can't help it, it's the best way to hide my face on this account
