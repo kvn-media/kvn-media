@@ -215,7 +215,7 @@ Mostly is about programming and technology books for now
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2055%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -289,7 +289,7 @@ Go                       5 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Chart not found](https://raw.githubusercontent.com/kvn-media/kvn-media/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/08/2022 16:32:19 UTC
+ Last Updated on 27/08/2022 17:27:26 UTC
 <!--END_SECTION:waka-->
 
 ---
