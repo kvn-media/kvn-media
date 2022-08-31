@@ -151,15 +151,15 @@ Just don't be a creep, thanks ● ﹏ ●
 
 ## Last Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [Classroom of the Elite 2nd Year Vol. 4](https://www.goodreads.com/review/show/4951523100?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.07)
-- [Classroom of the Elite 2nd Year Vol. 3](https://www.goodreads.com/review/show/4929565571?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.35)
+- [Classroom of the Elite 2nd Year Vol. 4](https://www.goodreads.com/review/show/4951523100?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.08)
+- [Classroom of the Elite 2nd Year Vol. 3](https://www.goodreads.com/review/show/4929565571?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.34)
 - [Think Like a Freak: How to Solve Problems, win Fights and Be a Slightly Better Person](https://www.goodreads.com/review/show/4932286894?utm_medium=api&utm_source=rss) by Steven D. Levitt (⭐️3.71)
 - [Sapiens: by Yuval Noah Harari | Key Takeaways, Analysis & Review: A Brief History of Humankind](https://www.goodreads.com/review/show/4932284536?utm_medium=api&utm_source=rss) by Eureka Books (⭐️4.01)
 - [Summary of Brief Answers to the Big Questions by Stephen Hawking](https://www.goodreads.com/review/show/4932280984?utm_medium=api&utm_source=rss) by Dennis Braun (⭐️4.17)
 - [Good to Great - Why some companies go from good to great?](https://www.goodreads.com/review/show/4932278573?utm_medium=api&utm_source=rss) by Jim Collins (⭐️4.25)
 - [Articles on Popular Science Books, Including: The Selfish Gene, the Blind Watchmaker, a Brief History of Time, Guns, Germs, and Steel, List of Popular Science Books on Evolution, the Code Book, a Short History of Nearly Everything](https://www.goodreads.com/review/show/4932276853?utm_medium=api&utm_source=rss) by Hephaestus Books (⭐️4.8)
 - [The Art of War. Sun Tzu](https://www.goodreads.com/review/show/4932273237?utm_medium=api&utm_source=rss) by Sun Tzu (⭐️3.98)
-- [Thinking, Fast and Slow by Daniel Kahneman (30 Minute Expert Summary)](https://www.goodreads.com/review/show/4932270494?utm_medium=api&utm_source=rss) by The 30 Minute Expert Series (⭐️3.93)
+- [Thinking, Fast and Slow by Daniel Kahneman (30 Minute Expert Summary)](https://www.goodreads.com/review/show/4932270494?utm_medium=api&utm_source=rss) by The 30 Minute Expert Series (⭐️3.92)
 - [The 4-Hour Workweek by Timothy Ferriss: A Summary with Bonus Tools and Tricks for Today's World (The 4-Hour Work Week Summary)](https://www.goodreads.com/review/show/4932269046?utm_medium=api&utm_source=rss) by Dense Summary (⭐️3.62)
 - [Think and Grow Rich by Napoleon Hill and the Richest Man in Babylon by George S. Clason](https://www.goodreads.com/review/show/4932267610?utm_medium=api&utm_source=rss) by Napoleon Hill (⭐️4.08)
 - [86—EIGHTY-SIX, Vol. 2: Run Through the Battlefront (Start)](https://www.goodreads.com/review/show/4929592397?utm_medium=api&utm_source=rss) by Asato Asato (⭐️4.1)
@@ -200,7 +200,7 @@ Just don't be a creep, thanks ● ﹏ ●
 - [Classroom of the Elite (Light Novel) Vol. 11.5](https://www.goodreads.com/review/show/4917833675?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.51)
 - [Classroom of the Elite (Light Novel) Vol. 11](https://www.goodreads.com/review/show/4917833401?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.51)
 - [Classroom of the Elite (Light Novel) Vol. 10](https://www.goodreads.com/review/show/4917832982?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.52)
-- [Classroom of the Elite (Light Novel) Vol. 9](https://www.goodreads.com/review/show/4917832518?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.26)
+- [Classroom of the Elite (Light Novel) Vol. 9](https://www.goodreads.com/review/show/4917832518?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.25)
 <!-- GOODREADS-LIST:END -->
 
 
