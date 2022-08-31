@@ -215,7 +215,7 @@ Mostly is about programming and technology books for now
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2056%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -223,7 +223,7 @@ Mostly is about programming and technology books for now
 
 > 🏆 328 Contributions in the Year 2022
  > 
-> 📦 275.0 kB Used in GitHub's Storage 
+> 📦 275.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -289,7 +289,7 @@ Go                       5 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Chart not found](https://raw.githubusercontent.com/kvn-media/kvn-media/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/08/2022 02:45:12 UTC
+ Last Updated on 31/08/2022 05:07:44 UTC
 <!--END_SECTION:waka-->
 
 ---
