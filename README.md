@@ -197,7 +197,7 @@ Just don't be a creep, thanks ● ﹏ ●
 - [Get Programming with Go](https://www.goodreads.com/review/show/4917837838?utm_medium=api&utm_source=rss) by Nathan Youngman (⭐️4.23)
 - [The Go Programming Language](https://www.goodreads.com/review/show/4917836987?utm_medium=api&utm_source=rss) by Alan A.A. Donovan (⭐️4.45)
 - [Classroom of the Elite: Year 2 (Light Novel) Vol. 1](https://www.goodreads.com/review/show/4917834029?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.38)
-- [Classroom of the Elite (Light Novel) Vol. 11.5](https://www.goodreads.com/review/show/4917833675?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.51)
+- [Classroom of the Elite (Light Novel) Vol. 11.5](https://www.goodreads.com/review/show/4917833675?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.5)
 - [Classroom of the Elite (Light Novel) Vol. 11](https://www.goodreads.com/review/show/4917833401?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.52)
 - [Classroom of the Elite (Light Novel) Vol. 10](https://www.goodreads.com/review/show/4917832982?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.52)
 - [Classroom of the Elite (Light Novel) Vol. 9](https://www.goodreads.com/review/show/4917832518?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.25)
