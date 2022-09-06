@@ -152,7 +152,7 @@ Just don't be a creep, thanks ● ﹏ ●
 ## Last Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
 - [Classroom of the Elite 2nd Year Vol. 4](https://www.goodreads.com/review/show/4951523100?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.08)
-- [Classroom of the Elite 2nd Year Vol. 3](https://www.goodreads.com/review/show/4929565571?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.34)
+- [Classroom of the Elite 2nd Year Vol. 3](https://www.goodreads.com/review/show/4929565571?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.33)
 - [Think Like a Freak: How to Solve Problems, win Fights and Be a Slightly Better Person](https://www.goodreads.com/review/show/4932286894?utm_medium=api&utm_source=rss) by Steven D. Levitt (⭐️3.71)
 - [Sapiens: by Yuval Noah Harari | Key Takeaways, Analysis & Review: A Brief History of Humankind](https://www.goodreads.com/review/show/4932284536?utm_medium=api&utm_source=rss) by Eureka Books (⭐️4.01)
 - [Summary of Brief Answers to the Big Questions by Stephen Hawking](https://www.goodreads.com/review/show/4932280984?utm_medium=api&utm_source=rss) by Dennis Braun (⭐️4.17)
@@ -172,12 +172,12 @@ Just don't be a creep, thanks ● ﹏ ●
 - [The Universe in a Nutshell](https://www.goodreads.com/review/show/4929582519?utm_medium=api&utm_source=rss) by Stephen Hawking (⭐️4.19)
 - [The Fabric of the Cosmos: Space, Time, and the Texture of Reality](https://www.goodreads.com/review/show/4929573124?utm_medium=api&utm_source=rss) by Brian Greene (⭐️4.1)
 - [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://www.goodreads.com/review/show/4929569888?utm_medium=api&utm_source=rss) by Eric Matthes (⭐️4.35)
-- [Classroom of the Elite: Year 2 (Light Novel) Vol. 2](https://www.goodreads.com/review/show/4917834374?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.15)
+- [Classroom of the Elite: Year 2 (Light Novel) Vol. 2](https://www.goodreads.com/review/show/4917834374?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.13)
 - [Git Essentials: Developer's Guide to Git](https://www.goodreads.com/review/show/4917874018?utm_medium=api&utm_source=rss) by François Dupire (⭐️5)
 - [Beginning Ruby: From Novice to Professional](https://www.goodreads.com/review/show/4917870508?utm_medium=api&utm_source=rss) by Peter Cooper (⭐️3.85)
 - [Data Structures & Algorithms In Go](https://www.goodreads.com/review/show/4917866657?utm_medium=api&utm_source=rss) by Hemant Jain (⭐️4.25)
 - [Introducing Go: Build Reliable, Scalable Programs](https://www.goodreads.com/review/show/4917865121?utm_medium=api&utm_source=rss) by Caleb Doxsey (⭐️3.61)
-- [Go Web Programming](https://www.goodreads.com/review/show/4917864135?utm_medium=api&utm_source=rss) by Sau Sheong Chang (⭐️3.67)
+- [Go Web Programming](https://www.goodreads.com/review/show/4917864135?utm_medium=api&utm_source=rss) by Sau Sheong Chang (⭐️3.69)
 - [Pro C# 7: With .NET and .NET Core](https://www.goodreads.com/review/show/4917863048?utm_medium=api&utm_source=rss) by Andrew Troelsen (⭐️4.11)
 - [Clean C++: Sustainable Software Development Patterns and Best Practices with C++ 17](https://www.goodreads.com/review/show/4917861721?utm_medium=api&utm_source=rss) by Stephan Roth (⭐️3.86)
 - [Beginning C++17: From Novice to Professional](https://www.goodreads.com/review/show/4917860062?utm_medium=api&utm_source=rss) by Ivor Horton (⭐️4.43)
