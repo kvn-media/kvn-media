@@ -151,17 +151,17 @@ Just don't be a creep, thanks ● ﹏ ●
 
 ## Last Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [Classroom of the Elite 2nd Year Vol. 4](https://www.goodreads.com/review/show/4951523100?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.07)
+- [Classroom of the Elite 2nd Year Vol. 4](https://www.goodreads.com/review/show/4951523100?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.06)
 - [Classroom of the Elite 2nd Year Vol. 3](https://www.goodreads.com/review/show/4929565571?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.32)
 - [Think Like a Freak: How to Solve Problems, win Fights and Be a Slightly Better Person](https://www.goodreads.com/review/show/4932286894?utm_medium=api&utm_source=rss) by Steven D. Levitt (⭐️3.71)
 - [Sapiens: by Yuval Noah Harari | Key Takeaways, Analysis & Review: A Brief History of Humankind](https://www.goodreads.com/review/show/4932284536?utm_medium=api&utm_source=rss) by Eureka Books (⭐️4.01)
-- [Summary of Brief Answers to the Big Questions by Stephen Hawking](https://www.goodreads.com/review/show/4932280984?utm_medium=api&utm_source=rss) by Dennis Braun (⭐️4.17)
+- [Summary of Brief Answers to the Big Questions by Stephen Hawking](https://www.goodreads.com/review/show/4932280984?utm_medium=api&utm_source=rss) by Dennis Braun (⭐️4.12)
 - [Good to Great - Why some companies go from good to great?](https://www.goodreads.com/review/show/4932278573?utm_medium=api&utm_source=rss) by Jim Collins (⭐️4.25)
 - [Articles on Popular Science Books, Including: The Selfish Gene, the Blind Watchmaker, a Brief History of Time, Guns, Germs, and Steel, List of Popular Science Books on Evolution, the Code Book, a Short History of Nearly Everything](https://www.goodreads.com/review/show/4932276853?utm_medium=api&utm_source=rss) by Hephaestus Books (⭐️4.8)
 - [The Art of War. Sun Tzu](https://www.goodreads.com/review/show/4932273237?utm_medium=api&utm_source=rss) by Sun Tzu (⭐️3.98)
 - [Thinking, Fast and Slow by Daniel Kahneman (30 Minute Expert Summary)](https://www.goodreads.com/review/show/4932270494?utm_medium=api&utm_source=rss) by The 30 Minute Expert Series (⭐️3.92)
 - [The 4-Hour Workweek by Timothy Ferriss: A Summary with Bonus Tools and Tricks for Today's World (The 4-Hour Work Week Summary)](https://www.goodreads.com/review/show/4932269046?utm_medium=api&utm_source=rss) by Dense Summary (⭐️3.62)
-- [Think and Grow Rich by Napoleon Hill and the Richest Man in Babylon by George S. Clason](https://www.goodreads.com/review/show/4932267610?utm_medium=api&utm_source=rss) by Napoleon Hill (⭐️4.08)
+- [Think and Grow Rich by Napoleon Hill and the Richest Man in Babylon by George S. Clason](https://www.goodreads.com/review/show/4932267610?utm_medium=api&utm_source=rss) by Napoleon Hill (⭐️4.09)
 - [86—EIGHTY-SIX, Vol. 2: Run Through the Battlefront (Start)](https://www.goodreads.com/review/show/4929592397?utm_medium=api&utm_source=rss) by Asato Asato (⭐️4.11)
 - [86—EIGHTY-SIX, Vol. 1](https://www.goodreads.com/review/show/4929592193?utm_medium=api&utm_source=rss) by Asato Asato (⭐️4.51)
 - [86—EIGHTY-SIX, Vol. 3: Run Through the Battlefront (Finish)](https://www.goodreads.com/review/show/4929591984?utm_medium=api&utm_source=rss) by Asato Asato (⭐️4.34)
@@ -188,7 +188,7 @@ Just don't be a creep, thanks ● ﹏ ●
 - [Effective SQL: 61 Specific Ways to Write Better SQL](https://www.goodreads.com/review/show/4917851936?utm_medium=api&utm_source=rss) by John Viescas (⭐️4.06)
 - [Learning PHP, MySQL, and JavaScript: A Step-By-Step Guide to Creating Dynamic Websites](https://www.goodreads.com/review/show/4917851254?utm_medium=api&utm_source=rss) by Robin Nixon (⭐️3.81)
 - [Learning MySQL and MariaDB: Heading in the Right Direction with MySQL and MariaDB](https://www.goodreads.com/review/show/4917850351?utm_medium=api&utm_source=rss) by Russell J.T. Dyer (⭐️3.92)
-- [Head First JavaScript Code Magnets](https://www.goodreads.com/review/show/4917848355?utm_medium=api&utm_source=rss) by O&apos;Reilly Media Inc. (⭐️4.2)
+- [Head First JavaScript Code Magnets](https://www.goodreads.com/review/show/4917848355?utm_medium=api&utm_source=rss) by O&apos;Reilly Media (⭐️4.2)
 - [Head First JavaScript Programming: A Brain-Friendly Guide by Eric Freeman, O'Reilly Media](https://www.goodreads.com/review/show/4917847298?utm_medium=api&utm_source=rss) by Eric Freeman (⭐️5)
 - [JavaScript Data Structures and Algorithms: An Introduction to Understanding and Implementing Core Data Structure and Algorithm Fundamentals](https://www.goodreads.com/review/show/4917845317?utm_medium=api&utm_source=rss) by Sammie Bae (⭐️3.65)
 - [JavaScript and jQuery: Interactive Front-End Web Development](https://www.goodreads.com/review/show/4917844234?utm_medium=api&utm_source=rss) by Jon Duckett (⭐️4.31)
@@ -199,7 +199,7 @@ Just don't be a creep, thanks ● ﹏ ●
 - [Classroom of the Elite: Year 2 (Light Novel) Vol. 1](https://www.goodreads.com/review/show/4917834029?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.39)
 - [Classroom of the Elite (Light Novel) Vol. 11.5](https://www.goodreads.com/review/show/4917833675?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.51)
 - [Classroom of the Elite (Light Novel) Vol. 11](https://www.goodreads.com/review/show/4917833401?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.52)
-- [Classroom of the Elite (Light Novel) Vol. 10](https://www.goodreads.com/review/show/4917832982?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.51)
+- [Classroom of the Elite (Light Novel) Vol. 10](https://www.goodreads.com/review/show/4917832982?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.52)
 - [Classroom of the Elite (Light Novel) Vol. 9](https://www.goodreads.com/review/show/4917832518?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.25)
 <!-- GOODREADS-LIST:END -->
 
