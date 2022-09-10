@@ -194,11 +194,11 @@ Just don't be a creep, thanks ● ﹏ ●
 - [JavaScript and jQuery: Interactive Front-End Web Development](https://www.goodreads.com/review/show/4917844234?utm_medium=api&utm_source=rss) by Jon Duckett (⭐️4.31)
 - [Express in Action: Writing, building, and testing Node.js applications](https://www.goodreads.com/review/show/4917843167?utm_medium=api&utm_source=rss) by Evan Hahn (⭐️4)
 - [Get Programming with JavaScript](https://www.goodreads.com/review/show/4917841475?utm_medium=api&utm_source=rss) by John Larsen (⭐️4.22)
-- [Get Programming with Go](https://www.goodreads.com/review/show/4917837838?utm_medium=api&utm_source=rss) by Nathan Youngman (⭐️4.23)
+- [Get Programming with Go](https://www.goodreads.com/review/show/4917837838?utm_medium=api&utm_source=rss) by Nathan Youngman (⭐️4.22)
 - [The Go Programming Language](https://www.goodreads.com/review/show/4917836987?utm_medium=api&utm_source=rss) by Alan A.A. Donovan (⭐️4.45)
 - [Classroom of the Elite: Year 2 (Light Novel) Vol. 1](https://www.goodreads.com/review/show/4917834029?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.39)
 - [Classroom of the Elite (Light Novel) Vol. 11.5](https://www.goodreads.com/review/show/4917833675?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.51)
-- [Classroom of the Elite (Light Novel) Vol. 11](https://www.goodreads.com/review/show/4917833401?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.52)
+- [Classroom of the Elite (Light Novel) Vol. 11](https://www.goodreads.com/review/show/4917833401?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.53)
 - [Classroom of the Elite (Light Novel) Vol. 10](https://www.goodreads.com/review/show/4917832982?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.52)
 - [Classroom of the Elite (Light Novel) Vol. 9](https://www.goodreads.com/review/show/4917832518?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.25)
 <!-- GOODREADS-LIST:END -->
