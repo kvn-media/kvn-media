@@ -177,7 +177,7 @@ Just don't be a creep, thanks ● ﹏ ●
 - [Beginning Ruby: From Novice to Professional](https://www.goodreads.com/review/show/4917870508?utm_medium=api&utm_source=rss) by Peter Cooper (⭐️3.85)
 - [Data Structures & Algorithms In Go](https://www.goodreads.com/review/show/4917866657?utm_medium=api&utm_source=rss) by Hemant Jain (⭐️4.25)
 - [Introducing Go: Build Reliable, Scalable Programs](https://www.goodreads.com/review/show/4917865121?utm_medium=api&utm_source=rss) by Caleb Doxsey (⭐️3.61)
-- [Go Web Programming](https://www.goodreads.com/review/show/4917864135?utm_medium=api&utm_source=rss) by Sau Sheong Chang (⭐️3.67)
+- [Go Web Programming](https://www.goodreads.com/review/show/4917864135?utm_medium=api&utm_source=rss) by Sau Sheong Chang (⭐️3.69)
 - [Pro C# 7: With .NET and .NET Core](https://www.goodreads.com/review/show/4917863048?utm_medium=api&utm_source=rss) by Andrew Troelsen (⭐️4.11)
 - [Clean C++: Sustainable Software Development Patterns and Best Practices with C++ 17](https://www.goodreads.com/review/show/4917861721?utm_medium=api&utm_source=rss) by Stephan Roth (⭐️3.86)
 - [Beginning C++17: From Novice to Professional](https://www.goodreads.com/review/show/4917860062?utm_medium=api&utm_source=rss) by Ivor Horton (⭐️4.43)
@@ -198,7 +198,7 @@ Just don't be a creep, thanks ● ﹏ ●
 - [The Go Programming Language](https://www.goodreads.com/review/show/4917836987?utm_medium=api&utm_source=rss) by Alan A.A. Donovan (⭐️4.45)
 - [Classroom of the Elite: Year 2 (Light Novel) Vol. 1](https://www.goodreads.com/review/show/4917834029?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.4)
 - [Classroom of the Elite (Light Novel) Vol. 11.5](https://www.goodreads.com/review/show/4917833675?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.5)
-- [Classroom of the Elite (Light Novel) Vol. 11](https://www.goodreads.com/review/show/4917833401?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.51)
+- [Classroom of the Elite (Light Novel) Vol. 11](https://www.goodreads.com/review/show/4917833401?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.52)
 - [Classroom of the Elite (Light Novel) Vol. 10](https://www.goodreads.com/review/show/4917832982?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.52)
 - [Classroom of the Elite (Light Novel) Vol. 9](https://www.goodreads.com/review/show/4917832518?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.25)
 <!-- GOODREADS-LIST:END -->
