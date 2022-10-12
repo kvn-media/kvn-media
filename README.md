@@ -151,8 +151,8 @@ Just don't be a creep, thanks ● ﹏ ●
 
 ## Last Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [Classroom of the Elite 2nd Year Vol. 4](https://www.goodreads.com/review/show/4951523100?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.07)
-- [Classroom of the Elite 2nd Year Vol. 3](https://www.goodreads.com/review/show/4929565571?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.33)
+- [Classroom of the Elite 2nd Year Vol. 4](https://www.goodreads.com/review/show/4951523100?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.06)
+- [Classroom of the Elite 2nd Year Vol. 3](https://www.goodreads.com/review/show/4929565571?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.32)
 - [Think Like a Freak: How to Solve Problems, win Fights and Be a Slightly Better Person](https://www.goodreads.com/review/show/4932286894?utm_medium=api&utm_source=rss) by Steven D. Levitt (⭐️3.71)
 - [Sapiens: by Yuval Noah Harari | Key Takeaways, Analysis & Review: A Brief History of Humankind](https://www.goodreads.com/review/show/4932284536?utm_medium=api&utm_source=rss) by Eureka Books (⭐️4.01)
 - [Summary of Brief Answers to the Big Questions by Stephen Hawking](https://www.goodreads.com/review/show/4932280984?utm_medium=api&utm_source=rss) by Dennis Braun (⭐️4.16)
@@ -196,11 +196,11 @@ Just don't be a creep, thanks ● ﹏ ●
 - [Get Programming with JavaScript](https://www.goodreads.com/review/show/4917841475?utm_medium=api&utm_source=rss) by John Larsen (⭐️4.22)
 - [Get Programming with Go](https://www.goodreads.com/review/show/4917837838?utm_medium=api&utm_source=rss) by Nathan Youngman (⭐️4.22)
 - [The Go Programming Language](https://www.goodreads.com/review/show/4917836987?utm_medium=api&utm_source=rss) by Alan A.A. Donovan (⭐️4.45)
-- [Classroom of the Elite: Year 2 (Light Novel) Vol. 1](https://www.goodreads.com/review/show/4917834029?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.4)
+- [Classroom of the Elite: Year 2 (Light Novel) Vol. 1](https://www.goodreads.com/review/show/4917834029?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.41)
 - [Classroom of the Elite (Light Novel) Vol. 11.5](https://www.goodreads.com/review/show/4917833675?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.5)
 - [Classroom of the Elite (Light Novel) Vol. 11](https://www.goodreads.com/review/show/4917833401?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.52)
 - [Classroom of the Elite (Light Novel) Vol. 10](https://www.goodreads.com/review/show/4917832982?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.52)
-- [Classroom of the Elite (Light Novel) Vol. 9](https://www.goodreads.com/review/show/4917832518?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.25)
+- [Classroom of the Elite (Light Novel) Vol. 9](https://www.goodreads.com/review/show/4917832518?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.26)
 <!-- GOODREADS-LIST:END -->
 
 
