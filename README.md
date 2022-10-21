@@ -200,7 +200,7 @@ Just don't be a creep, thanks ● ﹏ ●
 - [Classroom of the Elite (Light Novel) Vol. 11.5](https://www.goodreads.com/review/show/4917833675?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.51)
 - [Classroom of the Elite (Light Novel) Vol. 11](https://www.goodreads.com/review/show/4917833401?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.52)
 - [Classroom of the Elite (Light Novel) Vol. 10](https://www.goodreads.com/review/show/4917832982?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.52)
-- [Classroom of the Elite (Light Novel) Vol. 9](https://www.goodreads.com/review/show/4917832518?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.26)
+- [Classroom of the Elite (Light Novel) Vol. 9](https://www.goodreads.com/review/show/4917832518?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.25)
 <!-- GOODREADS-LIST:END -->
 
 
