@@ -196,11 +196,11 @@ Mostly is about programming and technology books for now
 
 **🐱 My GitHub Data** 
 
-> 🏆 340 Contributions in the Year 2022
+> 🏆 407 Contributions in the Year 2022
  > 
 > 📦 289.8 kB Used in GitHub's Storage 
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 53 Public Repositories 
  > 
@@ -266,7 +266,7 @@ Python                   5 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Chart not found](https://raw.githubusercontent.com/kvn-media/kvn-media/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/10/2022 13:34:25 UTC
+ Last Updated on 01/11/2022 12:36:11 UTC
 <!--END_SECTION:waka-->
 
 ---
