@@ -152,11 +152,11 @@ Just don't be a creep, thanks ● ﹏ ●
 ## Last Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
 - [Classroom of the Elite 2nd Year Vol. 4](https://www.goodreads.com/review/show/4951523100?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.08)
-- [Classroom of the Elite 2nd Year Vol. 3](https://www.goodreads.com/review/show/4929565571?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.29)
+- [Classroom of the Elite 2nd Year Vol. 3](https://www.goodreads.com/review/show/4929565571?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.3)
 - [Think Like a Freak: How to Solve Problems, win Fights and Be a Slightly Better Person](https://www.goodreads.com/review/show/4932286894?utm_medium=api&utm_source=rss) by Steven D. Levitt (⭐️3.71)
 - [Sapiens: by Yuval Noah Harari | Key Takeaways, Analysis & Review: A Brief History of Humankind](https://www.goodreads.com/review/show/4932284536?utm_medium=api&utm_source=rss) by Eureka Books (⭐️4.04)
 - [Summary of Brief Answers to the Big Questions by Stephen Hawking](https://www.goodreads.com/review/show/4932280984?utm_medium=api&utm_source=rss) by Dennis Braun (⭐️4.08)
-- [Good to Great - Why some companies go from good to great?](https://www.goodreads.com/review/show/4932278573?utm_medium=api&utm_source=rss) by Jim Collins (⭐️4.18)
+- [Good to Great - Why some companies go from good to great?](https://www.goodreads.com/review/show/4932278573?utm_medium=api&utm_source=rss) by Jim Collins (⭐️4.2)
 - [Articles on Popular Science Books, Including: The Selfish Gene, the Blind Watchmaker, a Brief History of Time, Guns, Germs, and Steel, List of Popular Science Books on Evolution, the Code Book, a Short History of Nearly Everything](https://www.goodreads.com/review/show/4932276853?utm_medium=api&utm_source=rss) by Hephaestus Books (⭐️4.8)
 - [The Art of War. Sun Tzu](https://www.goodreads.com/review/show/4932273237?utm_medium=api&utm_source=rss) by Sun Tzu (⭐️3.98)
 - [Thinking, Fast and Slow by Daniel Kahneman (30 Minute Expert Summary)](https://www.goodreads.com/review/show/4932270494?utm_medium=api&utm_source=rss) by The 30 Minute Expert Series (⭐️3.92)
