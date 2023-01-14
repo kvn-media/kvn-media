@@ -198,7 +198,7 @@ Mostly is about programming and technology books for now
 
 > 🏆 0 Contributions in the Year 2023
  > 
-> 📦 297.6 kB Used in GitHub's Storage 
+> 📦 297.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -262,7 +262,7 @@ Python                   5 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Chart not found](https://raw.githubusercontent.com/kvn-media/kvn-media/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/01/2023 13:18:16 UTC
+ Last Updated on 14/01/2023 12:22:09 UTC
 <!--END_SECTION:waka-->
 
 ---
