@@ -152,7 +152,7 @@ Just don't be a creep, thanks ● ﹏ ●
 ## Last Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
 - [Classroom of the Elite 2nd Year Vol. 4](https://www.goodreads.com/review/show/4951523100?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.09)
-- [Classroom of the Elite 2nd Year Vol. 3](https://www.goodreads.com/review/show/4929565571?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.29)
+- [Classroom of the Elite 2nd Year Vol. 3](https://www.goodreads.com/review/show/4929565571?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.3)
 - [Think Like a Freak: How to Solve Problems, win Fights and Be a Slightly Better Person](https://www.goodreads.com/review/show/4932286894?utm_medium=api&utm_source=rss) by Steven D. Levitt (⭐️3.7)
 - [Sapiens: by Yuval Noah Harari | Key Takeaways, Analysis & Review: A Brief History of Humankind](https://www.goodreads.com/review/show/4932284536?utm_medium=api&utm_source=rss) by Eureka Books (⭐️4.03)
 - [Summary of Brief Answers to the Big Questions by Stephen Hawking](https://www.goodreads.com/review/show/4932280984?utm_medium=api&utm_source=rss) by Dennis Braun (⭐️4.08)
@@ -168,11 +168,11 @@ Just don't be a creep, thanks ● ﹏ ●
 - [86—EIGHTY-SIX, Vol. 4: Under Pressure](https://www.goodreads.com/review/show/4929591626?utm_medium=api&utm_source=rss) by Asato Asato (⭐️4.49)
 - [ソードアート・オンライン 20: ムーン・クレイドル [Sōdo āto onrain 20: Mūn Kureidoru] (Sword Art Online Light Novel, #20: Moon Cradle)](https://www.goodreads.com/review/show/4929589472?utm_medium=api&utm_source=rss) by Reki Kawahara (⭐️3.91)
 - [Sword Art Online Progressive Manga, Vol. 1](https://www.goodreads.com/review/show/4929588301?utm_medium=api&utm_source=rss) by Reki Kawahara (⭐️4.14)
-- [ソードアート・オンライン 21 ユナイタル・リングI [Sōdo āto onrain 21 Yunaitaru Ringu I] (Sword Art Online Light Novel, #21: Unital Ring I)](https://www.goodreads.com/review/show/4929587300?utm_medium=api&utm_source=rss) by Reki Kawahara (⭐️4.27)
+- [ソードアート・オンライン 21 ユナイタル・リングI [Sōdo āto onrain 21 Yunaitaru Ringu I] (Sword Art Online Light Novel, #21: Unital Ring I)](https://www.goodreads.com/review/show/4929587300?utm_medium=api&utm_source=rss) by Reki Kawahara (⭐️4.28)
 - [The Universe in a Nutshell](https://www.goodreads.com/review/show/4929582519?utm_medium=api&utm_source=rss) by Stephen Hawking (⭐️4.19)
 - [The Fabric of the Cosmos: Space, Time, and the Texture of Reality](https://www.goodreads.com/review/show/4929573124?utm_medium=api&utm_source=rss) by Brian Greene (⭐️4.11)
 - [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://www.goodreads.com/review/show/4929569888?utm_medium=api&utm_source=rss) by Eric Matthes (⭐️4.35)
-- [Classroom of the Elite: Year 2 (Light Novel) Vol. 2](https://www.goodreads.com/review/show/4917834374?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.09)
+- [Classroom of the Elite: Year 2 (Light Novel) Vol. 2](https://www.goodreads.com/review/show/4917834374?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.1)
 - [Git Essentials: Developer's Guide to Git](https://www.goodreads.com/review/show/4917874018?utm_medium=api&utm_source=rss) by François Dupire (⭐️5)
 - [Beginning Ruby: From Novice to Professional](https://www.goodreads.com/review/show/4917870508?utm_medium=api&utm_source=rss) by Peter Cooper (⭐️3.85)
 - [Data Structures & Algorithms In Go](https://www.goodreads.com/review/show/4917866657?utm_medium=api&utm_source=rss) by Hemant Jain (⭐️4.25)
