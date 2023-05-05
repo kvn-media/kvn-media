@@ -153,7 +153,7 @@ Just don't be a creep, thanks ● ﹏ ●
 <!-- GOODREADS-LIST:START -->
 - [Classroom of the Elite 2nd Year Vol. 4](https://www.goodreads.com/review/show/4951523100?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.12)
 - [Classroom of the Elite 2nd Year Vol. 3](https://www.goodreads.com/review/show/4929565571?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.3)
-- [Think Like a Freak: How to Solve Problems, win Fights and Be a Slightly Better Person](https://www.goodreads.com/review/show/4932286894?utm_medium=api&utm_source=rss) by Steven D. Levitt (⭐️3.71)
+- [Think Like a Freak: How to Solve Problems, win Fights and Be a Slightly Better Person](https://www.goodreads.com/review/show/4932286894?utm_medium=api&utm_source=rss) by Steven D. Levitt (⭐️3.7)
 - [Sapiens: by Yuval Noah Harari | Key Takeaways, Analysis & Review: A Brief History of Humankind](https://www.goodreads.com/review/show/4932284536?utm_medium=api&utm_source=rss) by Eureka Books (⭐️4.03)
 - [Summary of Brief Answers to the Big Questions by Stephen Hawking](https://www.goodreads.com/review/show/4932280984?utm_medium=api&utm_source=rss) by Dennis Braun (⭐️4.03)
 - [Good to Great - Why some companies go from good to great?](https://www.goodreads.com/review/show/4932278573?utm_medium=api&utm_source=rss) by Jim Collins (⭐️4.19)
