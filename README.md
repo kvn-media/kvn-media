@@ -172,7 +172,7 @@ Just don't be a creep, thanks ● ﹏ ●
 - [The Universe in a Nutshell](https://www.goodreads.com/review/show/4929582519?utm_medium=api&utm_source=rss) by Stephen Hawking (⭐️4.19)
 - [The Fabric of the Cosmos: Space, Time, and the Texture of Reality](https://www.goodreads.com/review/show/4929573124?utm_medium=api&utm_source=rss) by Brian Greene (⭐️4.11)
 - [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://www.goodreads.com/review/show/4929569888?utm_medium=api&utm_source=rss) by Eric Matthes (⭐️4.35)
-- [Classroom of the Elite: Year 2 (Light Novel) Vol. 2](https://www.goodreads.com/review/show/4917834374?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.09)
+- [Classroom of the Elite: Year 2 (Light Novel) Vol. 2](https://www.goodreads.com/review/show/4917834374?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.1)
 - [Git Essentials: Developer's Guide to Git](https://www.goodreads.com/review/show/4917874018?utm_medium=api&utm_source=rss) by François Dupire (⭐️4.75)
 - [Beginning Ruby: From Novice to Professional](https://www.goodreads.com/review/show/4917870508?utm_medium=api&utm_source=rss) by Peter Cooper (⭐️3.84)
 - [Data Structures & Algorithms In Go](https://www.goodreads.com/review/show/4917866657?utm_medium=api&utm_source=rss) by Hemant Jain (⭐️4.25)
