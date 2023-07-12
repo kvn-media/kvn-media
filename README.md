@@ -151,7 +151,7 @@ Just don't be a creep, thanks ● ﹏ ●
 
 ## Last Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [Classroom of the Elite 2nd Year Vol. 4](https://www.goodreads.com/review/show/4951523100?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.15)
+- [Classroom of the Elite 2nd Year Vol. 4](https://www.goodreads.com/review/show/4951523100?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.16)
 - [Classroom of the Elite 2nd Year Vol. 3](https://www.goodreads.com/review/show/4929565571?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.29)
 - [Think Like a Freak: How to Solve Problems, win Fights and Be a Slightly Better Person](https://www.goodreads.com/review/show/4932286894?utm_medium=api&utm_source=rss) by Steven D. Levitt (⭐️3.7)
 - [Sapiens: by Yuval Noah Harari | Key Takeaways, Analysis & Review: A Brief History of Humankind](https://www.goodreads.com/review/show/4932284536?utm_medium=api&utm_source=rss) by Eureka Books (⭐️4.03)
@@ -160,7 +160,7 @@ Just don't be a creep, thanks ● ﹏ ●
 - [Articles on Popular Science Books, Including: The Selfish Gene, the Blind Watchmaker, a Brief History of Time, Guns, Germs, and Steel, List of Popular Science Books on Evolution, the Code Book, a Short History of Nearly Everything](https://www.goodreads.com/review/show/4932276853?utm_medium=api&utm_source=rss) by Hephaestus Books (⭐️4.8)
 - [Art of War](https://www.goodreads.com/review/show/4932273237?utm_medium=api&utm_source=rss) by Sun Tzu (⭐️3.94)
 - [Thinking, Fast and Slow by Daniel Kahneman (30 Minute Expert Summary)](https://www.goodreads.com/review/show/4932270494?utm_medium=api&utm_source=rss) by The 30 Minute Expert Series (⭐️3.93)
-- [The 4-Hour Workweek by Timothy Ferriss: A Summary with Bonus Tools and Tricks for Today's World (The 4-Hour Work Week Summary)](https://www.goodreads.com/review/show/4932269046?utm_medium=api&utm_source=rss) by Dense Summary (⭐️3.62)
+- [The 4-Hour Workweek by Timothy Ferriss: A Summary with Bonus Tools and Tricks for Today's World (The 4-Hour Work Week Summary)](https://www.goodreads.com/review/show/4932269046?utm_medium=api&utm_source=rss) by Dense Summary (⭐️3.59)
 - [Think and Grow Rich by Napoleon Hill and the Richest Man in Babylon by George S. Clason](https://www.goodreads.com/review/show/4932267610?utm_medium=api&utm_source=rss) by Napoleon Hill (⭐️4.11)
 - [86—EIGHTY-SIX, Vol. 2: Run Through the Battlefront (Start)](https://www.goodreads.com/review/show/4929592397?utm_medium=api&utm_source=rss) by Asato Asato (⭐️4.14)
 - [86—EIGHTY-SIX, Vol. 1](https://www.goodreads.com/review/show/4929592193?utm_medium=api&utm_source=rss) by Asato Asato (⭐️4.53)
