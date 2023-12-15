@@ -161,7 +161,7 @@ Just don't be a creep, thanks ● ﹏ ●
 - [Art of War](https://www.goodreads.com/review/show/4932273237?utm_medium=api&utm_source=rss) by Sun Tzu (⭐️3.95)
 - [Thinking, Fast and Slow by Daniel Kahneman (30 Minute Expert Summary)](https://www.goodreads.com/review/show/4932270494?utm_medium=api&utm_source=rss) by The 30 Minute Expert Series (⭐️3.93)
 - [The 4-Hour Workweek: A Summary with Bonus Tools and Tricks for Today's World (The 4-Hour Work Week Summary - Timothy Ferris)](https://www.goodreads.com/review/show/4932269046?utm_medium=api&utm_source=rss) by Dense Summary (⭐️3.59)
-- [Think and Grow Rich by Napoleon Hill and the Richest Man in Babylon by George S. Clason](https://www.goodreads.com/review/show/4932267610?utm_medium=api&utm_source=rss) by Napoleon Hill (⭐️4.11)
+- [Think and Grow Rich by Napoleon Hill and the Richest Man in Babylon by George S. Clason](https://www.goodreads.com/review/show/4932267610?utm_medium=api&utm_source=rss) by Napoleon Hill (⭐️4.1)
 - [86—EIGHTY-SIX, Vol. 2: Run Through the Battlefront (Start)](https://www.goodreads.com/review/show/4929592397?utm_medium=api&utm_source=rss) by Asato Asato (⭐️4.16)
 - [86—EIGHTY-SIX, Vol. 1](https://www.goodreads.com/review/show/4929592193?utm_medium=api&utm_source=rss) by Asato Asato (⭐️4.53)
 - [86—EIGHTY-SIX, Vol. 3: Run Through the Battlefront (Finish)](https://www.goodreads.com/review/show/4929591984?utm_medium=api&utm_source=rss) by Asato Asato (⭐️4.36)
