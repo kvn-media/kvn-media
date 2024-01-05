@@ -1,4 +1,3 @@
-![classroom-of-the-elite-landscape](https://github.com/kvn-media/kvn-media/assets/91268066/7e028f44-59c9-4062-bf97-edd73fc331e1)<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
   <div id="badges">
@@ -18,8 +17,7 @@
 
 
 <div id="header" align="center">
-<!--   <img src="https://user-images.githubusercontent.com/91268066/185572270-ba5329f2-59ce-40cb-b235-940f89b06b38.jpg"/> -->
-  <img src="https://user-images.githubusercontent.com/91268066/185572270-ba5329f2-59ce-40cb-b235-940f89b06b38.jpg"/>
+  <img src="https://github.com/kvn-media/kvn-media/assets/91268066/03d04a05-9563-4ee7-9803-9710ea2fe67a.png"/>
 </div>
 
 # **Hi there, I'm Kvn-media (*´ー｀*), and this is my profile readme.**
