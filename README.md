@@ -18,7 +18,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://github.com/kvn-media/kvn-media/assets/91268066/03d04a05-9563-4ee7-9803-9710ea2fe67a.png"/>
+  <img src="https://github.com/kvn-media/kvn-media/assets/91268066/03d04a05-9563-4ee7-9803-9710ea2fe67a.png" width="768" height="512" />
 </div>
 
 # **Hi there, I'm Kvn-media (*´ー｀*), and this is my profile readme.**
