@@ -190,7 +190,7 @@ Mostly is about programming and technology books for now
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-323%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-324%20hrs%201%20min-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
 
@@ -263,6 +263,6 @@ C#                       4 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/kvn-media/kvn-media/main/assets/bar_graph.png)
 
 
- Last Updated on 21/01/2024 12:44:29 UTC
+ Last Updated on 21/01/2024 12:58:50 UTC
 <!--END_SECTION:waka-->
 
