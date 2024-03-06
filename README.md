@@ -171,7 +171,7 @@ Just don't be a creep, thanks ● ﹏ ●
 - [ソードアート・オンライン 21 ユナイタル・リングI [Sōdo āto onrain 21 Yunaitaru Ringu I] (Sword Art Online Light Novel, #21: Unital Ring I)](https://www.goodreads.com/review/show/4929587300?utm_medium=api&utm_source=rss) by Reki Kawahara (⭐️4.22)
 - [The Universe in a Nutshell](https://www.goodreads.com/review/show/4929582519?utm_medium=api&utm_source=rss) by Stephen Hawking (⭐️4.2)
 - [The Fabric of the Cosmos: Space, Time, and the Texture of Reality](https://www.goodreads.com/review/show/4929573124?utm_medium=api&utm_source=rss) by Brian Greene (⭐️4.11)
-- [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://www.goodreads.com/review/show/4929569888?utm_medium=api&utm_source=rss) by Eric Matthes (⭐️4.35)
+- [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://www.goodreads.com/review/show/4929569888?utm_medium=api&utm_source=rss) by Eric Matthes (⭐️4.36)
 - [Classroom of the Elite: Year 2 (Light Novel) Vol. 2](https://www.goodreads.com/review/show/4917834374?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.1)
 - [Git Essentials: Developer's Guide to Git](https://www.goodreads.com/review/show/4917874018?utm_medium=api&utm_source=rss) by François Dupire (⭐️4.3)
 - [Beginning Ruby: From Novice to Professional (Beginning From Novice to Professional)](https://www.goodreads.com/review/show/4917870508?utm_medium=api&utm_source=rss) by Peter Cooper (⭐️3.84)
