@@ -17,9 +17,9 @@
 </div>
 
 
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://github.com/kvn-media/kvn-media/assets/91268066/03d04a05-9563-4ee7-9803-9710ea2fe67a.png" style="width: auto; height: 100%; max-width: 75vw; max-height: 100vh;">
-</div>
+</div> -->
 
 # **Hi there, I'm Kvn-media (*´ー｀*), and this is my profile readme.**
 <!--  [![Profile views](https://gpvc.arturio.dev/kvn-media)](https://github.com/kvn-media) -->
