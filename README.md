@@ -166,7 +166,7 @@ Just don't be a creep, thanks ● ﹏ ●
 - [86—EIGHTY-SIX, Vol. 1](https://www.goodreads.com/review/show/4929592193?utm_medium=api&utm_source=rss) by Asato Asato (⭐️4.52)
 - [86—EIGHTY-SIX, Vol. 3: Run Through the Battlefront (Finish)](https://www.goodreads.com/review/show/4929591984?utm_medium=api&utm_source=rss) by Asato Asato (⭐️4.35)
 - [86—EIGHTY-SIX, Vol. 4: Under Pressure](https://www.goodreads.com/review/show/4929591626?utm_medium=api&utm_source=rss) by Asato Asato (⭐️4.46)
-- [ソードアート・オンライン 20: ムーン・クレイドル [Sōdo āto onrain 20: Mūn Kureidoru] (Sword Art Online Light Novel, #20: Moon Cradle)](https://www.goodreads.com/review/show/4929589472?utm_medium=api&utm_source=rss) by Reki Kawahara (⭐️3.89)
+- [ソードアート・オンライン 20: ムーン・クレイドル [Sōdo āto onrain 20: Mūn Kureidoru] (Sword Art Online Light Novel, #20: Moon Cradle)](https://www.goodreads.com/review/show/4929589472?utm_medium=api&utm_source=rss) by Reki Kawahara (⭐️3.87)
 - [Sword Art Online Progressive Manga, Vol. 1](https://www.goodreads.com/review/show/4929588301?utm_medium=api&utm_source=rss) by Reki Kawahara (⭐️4.14)
 - [ソードアート・オンライン 21 ユナイタル・リングI [Sōdo āto onrain 21 Yunaitaru Ringu I] (Sword Art Online Light Novel, #21: Unital Ring I)](https://www.goodreads.com/review/show/4929587300?utm_medium=api&utm_source=rss) by Reki Kawahara (⭐️4.22)
 - [The Universe in a Nutshell](https://www.goodreads.com/review/show/4929582519?utm_medium=api&utm_source=rss) by Stephen Hawking (⭐️4.2)
