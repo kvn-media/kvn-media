@@ -176,13 +176,16 @@ I'm open to collaboration on projects related to Kotlin, Flutter, Postgresql, HT
   <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=kvn-media&theme=tokyonight&hide_border=false">
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvn-media&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
 </p>
----
+
+<h2 align="center">⚡My Trophies ⚡</h2>
+<p align="center">
+	<img src="https://github-profile-trophy.vercel.app/?username=kvn-media&theme=radical&no-frame=true&no-bg=true&margin-w=4">
+</p>
+
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/kevin2608) 
 
-
----
 
 ## **Reading Area :open_book:**
 
@@ -190,7 +193,6 @@ I'm open to collaboration on projects related to Kotlin, Flutter, Postgresql, HT
 
 Mostly is about programming and technology books for now
 
----
 
 ## **What languages you use and how much do you code?**
 
