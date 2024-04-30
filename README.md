@@ -174,7 +174,6 @@ I'm open to collaboration on projects related to Kotlin, Flutter, Postgresql, HT
 <p align="center">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=kvn-media&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false">
   <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=kvn-media&theme=tokyonight&hide_border=false">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvn-media&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
 </p>
 
 <h2 align="center">⚡My Trophies ⚡</h2>
