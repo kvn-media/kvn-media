@@ -127,11 +127,11 @@ I'm open to collaboration on projects related to Kotlin, Flutter, Postgresql, HT
 
 
 ## 📫 How to Reach Me
-<p align="center">
-  [![Gmail](https://img.shields.io/badge/Email--red?style=for-the-badge&logo=gmail)](mailto:kevin.subagio@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kisaragi_kvn/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-kevin-subagio-236978233/)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-%234CAF50.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white)](https://api.whatsapp.com/send?phone=+6285883421924&text=Hi!)
+<p align="left">
+  <a href="mailto:kevin.subagio@gmail.com"><img src="https://img.shields.io/badge/Email--red?style=for-the-badge&logo=gmail" alt="Gmail"></a>
+  <a href="https://www.instagram.com/kisaragi_kvn/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/muhammad-kevin-subagio-236978233/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://api.whatsapp.com/send?phone=+6285883421924&text=Hi!"><img src="https://img.shields.io/badge/WhatsApp-%234CAF50.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
 ## 💻 Coding Challenges
