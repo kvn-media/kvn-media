@@ -1,49 +1,67 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<h1> 
+    <p align="center">
+        <a href="https://github.com/kvn-media">  
+            <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=350&height=60&duration=5000&lines=Hello+World!+👋;+I'm+Muhammad+Kevin!;">
+        </a>
+         <a href="https://github.com/kvn-media">   
+            <img align="right" src="gif.gif" width="170">
+        </a>
+    </p>
+ <p align="center">
+  <a href="https://github.com/kvn-media">
+    <img src="https://komarev.com/ghpvc/?username=kvn-media&color=blue&style=flat)" />
+  </a>
+</p> 
+</h1>
+
+  <p><h3 align="center"> A passionate Software Engineer from Jakarta, ID. </h3>
   
-  <div id="badges">
-    <a href="[Linkedin](https://www.linkedin.com/in/muhammad-kevin-subagio-236978233/)">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="[YouTube](https://www.youtube.com/channel/UClpKSzutK_ruy6gpFSmVDaw)">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-  </div>
-  <img src="https://profile-counter.glitch.me/kvn-media/count.svg" alt="Profile"/>
-  <h1>
-    Konnichiwa
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+
+<p align="left">
+🌐 Ever since I was young, the transformative power of computer technology has captivated me. Witnessing the evolution of computer science has not only fueled my passion for software engineering but also propelled me on a journey of constant learning and growth. 🚀Exploring new tech stacks is not just a hobby, it's my passion 💻. The thrill of using them to build innovative solutions is what keeps me going! 🛠️<br><br>I'm currently diving deeper into the world of mobile engineering, artificial intelligence, big data, and web 3.0, aiming to contribute to the next generation of digital solutions. 🔍<br><br>I believe in the power of code to shape the future, and I'm excited to be a part of this journey. Let's code the future together! 🌟</p>
+<p align="center"> </p>
 </div>
+<img align="right" alt="Coding" width="400" src="dnxempire.gif">
 
 
-<!-- <div id="header" align="center">
-  <img src="https://github.com/kvn-media/kvn-media/assets/91268066/03d04a05-9563-4ee7-9803-9710ea2fe67a.png" style="width: auto; height: 100%; max-width: 75vw; max-height: 100vh;">
-</div> -->
+- 💬 Ask me about **Software Development** and **Big Data**
+- ⚡ Fun fact Game of Thrones Night's Watch cloaks are made from Ikea rugs
+<!--😂🃏JOKECARD / 🌐WEBSITE: https://github.com/ABSphreak/readme-jokes -->
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="400">
+<!--💬🃏QUOTESCARD / 🌐WEBSITE: https://github.com/PiyushSuthar/github-readme-quotes#Demo & https://github.com/shravan20/github-readme-quotes -->
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="400">
+    <a href="https://github.com/walidbosso">
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
+</a>
 
-# **Hi there, I'm Kvn-media (*´ー｀*), and this is my profile readme.**
-<!--  [![Profile views](https://gpvc.arturio.dev/kvn-media)](https://github.com/kvn-media) -->
-# Some FAQs
 
-## **Who are you?**
+<a href="https://github.com/kvn-media">
+<img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="20" height="20" >
+ <img align="right"  src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="20" height="20" > 
+ </a>
+  <a href="https://github.com/kvn-media"> 
+ <img align="left" src="good-times.svg" width="10%">   
+</a>
+<a href="https://github.com/kvn-media"> 
+ <img align="right" src="good-times.svg" width="10%">   
+</a>
+ <h2 align="center" width="20" >
+   【Harmony Haven】
+</h2>
+<a href="https://github.com/kvn-media"> 
+<img align="left" src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" ></a>
+<a href="https://github.com/kvn-media"> 
+ <img align="right"  src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" > </a>
+ 
+<!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
+<p align="center">
+<a href="https://open.spotify.com/playlist/3cEYpjA9oz9GiPac4AsH4n"><img src="default.svg" height="130" width="300" ></a>
 
-Well, no-one special, just a 21 year old person interested in invention, technology, science, game development, and anime. \
-Name's **Kevin**, `Muhammad Kevin` to be exact. Call me Kevin if you wanna. \
-I'm a Software Engineer, I Love to invent things to have fun and cause it's interesting.
-
-## **Where are you from? Where do you belong?**
-
-I'm from Jakarta, a city in the country of Indonesia.
-
-## **What are you doing currently? What are you learning?**
-
-I'm learning and playing around with a few languages, see pinned repositories for an idea of what I'm up to.
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
+# 💻 Tech Stack:
+<p align="left">
+	<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -100,84 +118,49 @@ I'm learning and playing around with a few languages, see pinned repositories fo
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VS" alt="VS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="Intellij" alt="Intellij" width="40" height="40"/>&nbsp;
-</div>  
-
----
-
-I wanna write software to entertain myself with challenges and help people. \
-Though I don't think I achived the latter goal till now.
-
-In the future i want to invent personal A.I not just a software but can integrated to physical body and a new programming language, it's not easy but the journey of inventors never easy throught out the year.
-
----
-
-### :fire: My Stats :
-<div id="header" align="left"
-  <a>
-    <img src="https://github-profile-trophy.vercel.app/?username=kvn-media&row=1"/>
-  </a>   
-  <a>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=kvn-media&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D"/>
-  </a>
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=kvn-media&show_icons=true&theme=tokyonight"/>
-  </a>
-  <a>  
-    <img width="True" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvn-media&langs_count=10&theme=tokyonight&layout=compact"/>
-  </a>
 </div>
-
-<!--[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)-->
-
-<!--## **Eww, I see a weeb profile.**
-Can't help it, it's the best way to hide my face on this account
-> Why do people hate weebs .-.
-## **Cool, what more interests you?**
-My interests are quite, weird. They're scattered all over the place. \
-I've been fascinated by music and have studied it since the age of 6, I've performed on stage and on air but yeah now I've been away from that. I specialize in key instruments. \
-Another thing that interests me is Media Production, aka, working with audio, video and broadcasting media.
-> I just like art in general. also feeds the reason of me being obsessed with Japanese drawings (⋟ ﹏ ⋞)-->
-
-## **I wanna talk to you, how can I reach you?**
-
-There ya go, but yeah I might be slow to respond. ＼(￣O￣) \
-Just don't be a creep, thanks ● ﹏ ●
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alter_kvn_media)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevin.subagio@gmail.com)
-[![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/732753909487239229)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/kevin_subagio)
+</p>
 
 
-## Last Books I've Read 🤓
-<!-- GOODREADS-LIST:START -->
-- [Classroom of the Elite 2nd Year Vol. 4](https://www.goodreads.com/review/show/4951523100?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.19)
-- [Classroom of the Elite 2nd Year Vol. 3](https://www.goodreads.com/review/show/4929565571?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.29)
-- [Think Like a Freak: How to Solve Problems, win Fights and Be a Slightly Better Person](https://www.goodreads.com/review/show/4932286894?utm_medium=api&utm_source=rss) by Steven D. Levitt (⭐️3.71)
-- [Sapiens: by Yuval Noah Harari | Key Takeaways, Analysis & Review: A Brief History of Humankind](https://www.goodreads.com/review/show/4932284536?utm_medium=api&utm_source=rss) by Eureka Books (⭐️4.02)
-- [Summary of Brief Answers to the Big Questions by Stephen Hawking](https://www.goodreads.com/review/show/4932280984?utm_medium=api&utm_source=rss) by Dennis Braun (⭐️4.13)
-- [Good to Great - Why some companies go from good to great?](https://www.goodreads.com/review/show/4932278573?utm_medium=api&utm_source=rss) by James C. Collins (⭐️4.08)
-- [Articles on Popular Science Books, Including: The Selfish Gene, the Blind Watchmaker, a Brief History of Time, Guns, Germs, and Steel, List of Popular Science Books on Evolution, the Code Book, a Short History of Nearly Everything](https://www.goodreads.com/review/show/4932276853?utm_medium=api&utm_source=rss) by Hephaestus Books (⭐️4.83)
-- [Art of War](https://www.goodreads.com/review/show/4932273237?utm_medium=api&utm_source=rss) by Sun Tzu (⭐️3.95)
-- [Thinking, Fast and Slow by Daniel Kahneman (30 Minute Expert Summary)](https://www.goodreads.com/review/show/4932270494?utm_medium=api&utm_source=rss) by The 30 Minute Expert Series (⭐️3.92)
-- [The 4-Hour Workweek: A Summary with Bonus Tools and Tricks for Today's World (The 4-Hour Work Week Summary - Timothy Ferris)](https://www.goodreads.com/review/show/4932269046?utm_medium=api&utm_source=rss) by Dense Summary (⭐️3.56)
-- [Think and Grow Rich by Napoleon Hill and the Richest Man in Babylon by George S. Clason](https://www.goodreads.com/review/show/4932267610?utm_medium=api&utm_source=rss) by Napoleon Hill (⭐️4.11)
-- [86—EIGHTY-SIX, Vol. 2: Run Through the Battlefront (Start)](https://www.goodreads.com/review/show/4929592397?utm_medium=api&utm_source=rss) by Asato Asato (⭐️4.17)
-- [86—EIGHTY-SIX, Vol. 1](https://www.goodreads.com/review/show/4929592193?utm_medium=api&utm_source=rss) by Asato Asato (⭐️4.52)
-- [86—EIGHTY-SIX, Vol. 3: Run Through the Battlefront (Finish)](https://www.goodreads.com/review/show/4929591984?utm_medium=api&utm_source=rss) by Asato Asato (⭐️4.35)
-- [86—EIGHTY-SIX, Vol. 4: Under Pressure](https://www.goodreads.com/review/show/4929591626?utm_medium=api&utm_source=rss) by Asato Asato (⭐️4.46)
-- [ソードアート・オンライン 20: ムーン・クレイドル [Sōdo āto onrain 20: Mūn Kureidoru] (Sword Art Online Light Novel, #20: Moon Cradle)](https://www.goodreads.com/review/show/4929589472?utm_medium=api&utm_source=rss) by Reki Kawahara (⭐️3.84)
-- [Sword Art Online Progressive Manga, Vol. 1](https://www.goodreads.com/review/show/4929588301?utm_medium=api&utm_source=rss) by Reki Kawahara (⭐️4.14)
-- [ソードアート・オンライン 21 ユナイタル・リングI [Sōdo āto onrain 21 Yunaitaru Ringu I] (Sword Art Online Light Novel, #21: Unital Ring I)](https://www.goodreads.com/review/show/4929587300?utm_medium=api&utm_source=rss) by Reki Kawahara (⭐️4.22)
-- [The Universe in a Nutshell](https://www.goodreads.com/review/show/4929582519?utm_medium=api&utm_source=rss) by Stephen Hawking (⭐️4.2)
-- [The Fabric of the Cosmos: Space, Time, and the Texture of Reality](https://www.goodreads.com/review/show/4929573124?utm_medium=api&utm_source=rss) by Brian Greene (⭐️4.11)
-- [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://www.goodreads.com/review/show/4929569888?utm_medium=api&utm_source=rss) by Eric Matthes (⭐️4.36)
-- [Classroom of the Elite: Year 2 (Light Novel) Vol. 2](https://www.goodreads.com/review/show/4917834374?utm_medium=api&utm_source=rss) by Syougo Kinugasa (⭐️4.11)
-- [Git Essentials: Developer's Guide to Git](https://www.goodreads.com/review/show/4917874018?utm_medium=api&utm_source=rss) by François Dupire (⭐️4.3)
-- [Beginning Ruby: From Novice to Professional (Beginning From Novice to Professional)](https://www.goodreads.com/review/show/4917870508?utm_medium=api&utm_source=rss) by Peter Cooper (⭐️3.84)
-- [Data Structures & Algorithms In Go](https://www.goodreads.com/review/show/4917866657?utm_medium=api&utm_source=rss) by Hemant Jain (⭐️4.25)
-<!-- GOODREADS-LIST:END -->
+## 🤝 Let's Collaborate!
+I'm open to collaboration on projects related to Kotlin, Flutter, Postgresql, HTML, React, Machine Learning and Python. If you have an exciting project or idea, feel free to reach out!
 
+
+## 📫 How to Reach Me
+<p align="center">
+  [![Gmail](https://img.shields.io/badge/Email--red?style=for-the-badge&logo=gmail)](mailto:kevin.subagio@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kisaragi_kvn/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/muhammad-kevin-subagio-236978233/)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-%234CAF50.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white)](https://api.whatsapp.com/send?phone=+6285883421924&text=Hi!)
+</p>
+
+## 💻 Coding Challenges
+- [HackerRank](https://www.hackerrank.com/profile/kevin_subagio)
+
+<div align="center" margin="100px 0 0 0">
+<hr/>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+    <a href="https://github.com/kvn-media">
+     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DNXEMPIRE-1/DNXEMPIRE-1/output/github-snake-darkBlue.svg" />
+ 
+</div>
+<hr/>
+
+<h2 align="center">⚡My Stats ⚡</h2> 
+<p align="center">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=kvn-media&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false">
+  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=kvn-media&theme=tokyonight&hide_border=false">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvn-media&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+</p>
+---
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/kevin2608) 
+
+
+---
 
 ## **Reading Area :open_book:**
 
@@ -267,3 +250,7 @@ C#                       4 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
  Last Updated on 01/02/2024 13:11:24 UTC
 <!--END_SECTION:waka-->
 
+
+🚀 Join me on this journey of pixels, lines of code, and the occasional touch of magic! ✨
+<!--🦶FOOTER--> 
+<img src="footer.svg" width="100%">
