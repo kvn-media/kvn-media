@@ -14,7 +14,7 @@
 </p> 
 </h1>
 
-  <p><h3 align="center"> A passionate Software Engineer from Jakarta, ID. </h3>
+  <p><h3 align="left"> A passionate Software Engineer from Jakarta, ID. </h3>
   
 
 <p align="left">
